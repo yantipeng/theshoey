@@ -1,4 +1,4 @@
-let symbolSize = 19;
+let symbolSize = 25;
 let symbolChar = "𓂇";
 let symbolImg;
 let saveMsg = "PRESS UP ARROW TO SAVE IMAGE";
